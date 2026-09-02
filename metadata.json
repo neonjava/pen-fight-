@@ -1,0 +1,6 @@
+{
+  "name": "Duo Pen Fight",
+  "description": "The classic classroom pen fight battle game with local 2-player and AI modes, realistic physics, customizable pens, and arena tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
